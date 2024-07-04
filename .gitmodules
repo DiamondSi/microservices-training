@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/DiamondSi/api-gateway.git
+[submodule "state-service"]
+	path = state-service
+	url = https://github.com/DiamondSi/state-service.git
+[submodule "email-service"]
+	path = email-service
+	url = https://github.com/DiamondSi/email-service.git
